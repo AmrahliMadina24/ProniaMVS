@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Madina\\source\\repos\\ProniaMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37039B27-8F9E-4D00-B899-40570AF0EC00}|Pronia.csproj|c:\\users\\madina\\source\\repos\\proniamvc\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37039B27-8F9E-4D00-B899-40570AF0EC00}|Pronia.csproj|solutionrelative:areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37039B27-8F9E-4D00-B899-40570AF0EC00}|Pronia.csproj|c:\\users\\madina\\source\\repos\\proniamvc\\areas\\admin\\controllers\\shippingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37039B27-8F9E-4D00-B899-40570AF0EC00}|Pronia.csproj|solutionrelative:areas\\admin\\controllers\\shippingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37039B27-8F9E-4D00-B899-40570AF0EC00}|Pronia.csproj|c:\\users\\madina\\source\\repos\\proniamvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{37039B27-8F9E-4D00-B899-40570AF0EC00}|Pronia.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37039B27-8F9E-4D00-B899-40570AF0EC00}|Pronia.csproj|c:\\users\\madina\\source\\repos\\proniamvc\\areas\\admin\\views\\shipping\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37039B27-8F9E-4D00-B899-40570AF0EC00}|Pronia.csproj|solutionrelative:areas\\admin\\views\\shipping\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37039B27-8F9E-4D00-B899-40570AF0EC00}|Pronia.csproj|c:\\users\\madina\\source\\repos\\proniamvc\\areas\\admin\\views\\shipping\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37039B27-8F9E-4D00-B899-40570AF0EC00}|Pronia.csproj|solutionrelative:areas\\admin\\views\\shipping\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37039B27-8F9E-4D00-B899-40570AF0EC00}|Pronia.csproj|c:\\users\\madina\\source\\repos\\proniamvc\\areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37039B27-8F9E-4D00-B899-40570AF0EC00}|Pronia.csproj|solutionrelative:areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 182,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SliderController.cs",
+              "DocumentMoniker": "C:\\Users\\Madina\\source\\repos\\ProniaMVC\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\SliderController.cs",
+              "ToolTip": "C:\\Users\\Madina\\source\\repos\\ProniaMVC\\Areas\\Admin\\Controllers\\SliderController.cs*",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\SliderController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T03:40:28.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Madina\\source\\repos\\ProniaMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Madina\\source\\repos\\ProniaMVC\\appsettings.json*",
+              "RelativeToolTip": "appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-23T03:38:05.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Madina\\source\\repos\\ProniaMVC\\Areas\\Admin\\Views\\Shipping\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shipping\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Madina\\source\\repos\\ProniaMVC\\Areas\\Admin\\Views\\Shipping\\Create.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Shipping\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-23T03:34:47.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShippingController.cs",
+              "DocumentMoniker": "C:\\Users\\Madina\\source\\repos\\ProniaMVC\\Areas\\Admin\\Controllers\\ShippingController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\ShippingController.cs",
+              "ToolTip": "C:\\Users\\Madina\\source\\repos\\ProniaMVC\\Areas\\Admin\\Controllers\\ShippingController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\ShippingController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwBcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T03:34:47.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Madina\\source\\repos\\ProniaMVC\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Madina\\source\\repos\\ProniaMVC\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-23T03:34:47.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Madina\\source\\repos\\ProniaMVC\\Areas\\Admin\\Views\\Shipping\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shipping\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Madina\\source\\repos\\ProniaMVC\\Areas\\Admin\\Views\\Shipping\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Shipping\\Index.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwBoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-23T03:34:47.843Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
