@@ -1,25 +1,25 @@
 ﻿@model List<Shipping>
 
-<div class="container">
-    <div class="row">
-        <div>
+    <div class="container">
+        <div class="row">
+            <div>
 
-            <a class="btn btn-success col-2 mt-3" asp-action="Create">Create</a>
+                <a class="btn btn-success col-2 mt-3" asp-action="Create">Create</a>
 
-        </div>
-        <table class="table table-striped">
-            <thead>
-                <tr>
-                    <th scope="col">Id</th>
-                    <th scope="col">Title</th>
-                    <th scope="col">Description</th>
-                    <th scope="col">ImageUrl</th>
-                    <th scope="col">Actions</th>
+            </div>
+            <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th scope="col">Id</th>
+                        <th scope="col">Title</th>
+                        <th scope="col">Description</th>
+                        <th scope="col">ImageUrl</th>
+                        <th scope="col">Actions</th>
 
-                </tr>
-            </thead>
-            <tbody>
-                @foreach (var shipping in Model)
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var shipping in Model)
                 {
                     <tr>
                         <th scope="row">@shipping.Id</th>
@@ -33,7 +33,7 @@
                     </tr>
                 }
 
-            </tbody>
-        </table>
+                </tbody>
+            </table>
+        </div>
     </div>
-</div>

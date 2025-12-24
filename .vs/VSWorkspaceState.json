@@ -1,6 +1,16 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Areas",
+    "\\Areas\\Admin\\Views\\Shipping",
+    "\\Contexts",
+    "\\Properties",
+    "\\Views\\Blog",
+    "\\Views\\Home",
+    "\\Views\\Shared",
+    "\\wwwroot\\admin",
+    "\\wwwroot\\admin\\assets",
+    "\\wwwroot\\admin\\assets\\css"
   ],
   "PreviewInSolutionExplorer": false
 }
