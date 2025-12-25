@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Madina\\source\\repos\\ProniaMVC\\Pronia.csproj": {}
+    "C:\\Users\\Madina\\source\\repos\\ProniaMVS\\Pronia.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Madina\\source\\repos\\ProniaMVC\\Pronia.csproj": {
+    "C:\\Users\\Madina\\source\\repos\\ProniaMVS\\Pronia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Madina\\source\\repos\\ProniaMVC\\Pronia.csproj",
+        "projectUniqueName": "C:\\Users\\Madina\\source\\repos\\ProniaMVS\\Pronia.csproj",
         "projectName": "Pronia",
-        "projectPath": "C:\\Users\\Madina\\source\\repos\\ProniaMVC\\Pronia.csproj",
+        "projectPath": "C:\\Users\\Madina\\source\\repos\\ProniaMVS\\Pronia.csproj",
         "packagesPath": "C:\\Users\\Madina\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Madina\\source\\repos\\ProniaMVC\\obj\\",
+        "outputPath": "C:\\Users\\Madina\\source\\repos\\ProniaMVS\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
